@@ -13,8 +13,8 @@
     width: 150px;
     margin: auto;
     height: 150px;
-    color: #fff;
-    background-color: #dc3545;
+    color: rgb(240, 32, 59);
+    background-color: #02180b;
   }
   
   .lingkaran i {
@@ -28,16 +28,16 @@
   
   .tim img {
     width: 250px;
-    border: 10px solid #cccccc;
+    border: 10px solid #7a7878;
   }
   
   a.social {
     display: inline-block;
     width: 40px;
     height: 40px;
-    color: #fff;
+    color: rgb(8, 0, 0);
     border-radius: 50%;
-    background-color: #333;
+    background-color: rgb(218, 23, 23);
     line-height: 40px;
   }
   
@@ -52,5 +52,5 @@
     background-size: cover;
     padding-bottom: 20%;
     padding-top: 20%;
-    color: #fff;
+    color: rgb(176, 192, 145);
   }
